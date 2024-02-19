@@ -22,27 +22,6 @@
 |Пиво|200|100|
 |Текила|50|200|
 
-   width:100%;
-   background-color:#FFFFFF;
-   font-family:cursive;
-   border-collapse:collapse;
-   border-width:3px;
-   border-color:#7e916b;
-   border-style:solid;
-   color:#303030;
-}
-
-table.GeneratedTable td, table.GeneratedTable th {
-   border-width:3px;
-   border-color:#7e916b;
-   border-style:solid;
-   padding:3px;
-}
-
-table.GeneratedTable thead {
-  background-color:#D0D3D4;
-}
-</style>
 
 <!-- HTML Code -->
 <table class="GeneratedTable">
