@@ -21,6 +21,7 @@
 |Водка|50|150|
 |Пиво|200|100|
 |Текила|50|200|
+
 <!-- CSS Code -->
 <table class="GeneratedTable">
 <thead>
