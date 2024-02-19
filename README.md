@@ -24,7 +24,7 @@
 
 
 
-<!-- HTML Code -->
+ background-color:#D0D3D4;
 <table class="GeneratedTable">
 <thead>
 <tr>
