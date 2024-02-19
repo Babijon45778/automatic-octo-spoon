@@ -33,4 +33,5 @@
 
 ***Наши контакты*** 
   <[https://www.markdownguide.org](https://brunkol.ru/contacts)https://brunkol.ru/contacts>
+<div class="leading-tight whitespace-pre-line text-opaque dark:text-opaqueDark mt-2 break-words ">Куриный бульон, лемонграсс, лист каффир-лайма, галангал, красный лук, шампиньоны, креветки, черри, чили перец, кинза, кокосовое молоко, лайм,  рис</div>
   <img class="" src="https://foodeon.com/assets/uploaded-media/product-media/sabai-bar-gbag-ozrgegyzex-teajvgbri--_AzqGZqSlKVqHdvJhS6w9.jpg" alt="Том ям" style="max-height: 428px;">
