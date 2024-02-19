@@ -152,4 +152,4 @@
 
 ***Наши контакты*** 
   <[https://www.markdownguide.org](https://brunkol.ru/contacts)https://brunkol.ru/contacts>
- [Забронировать столик](https://brunkol.ru/contacts#popup:myform "забронировать столик")
+<div class="t-input-block" style="border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;"><input type="text" name="Time" id="input_1495810359387" class="t-input t-inputtime js-tilda-rule js-tilda-mask " value="" placeholder="Время" data-tilda-req="1" aria-required="true" data-tilda-rule="time" data-tilda-mask="99:99" style="color:#000000;border:1px solid #c9c9c9;border-radius: 5px; -moz-border-radius: 5px; -webkit-border-radius: 5px;" data-tilda-mask-init="1"><div class="t-input-error" aria-live="polite" id="error_1495810359387"></div></div>
