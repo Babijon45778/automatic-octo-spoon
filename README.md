@@ -152,3 +152,4 @@
 
 ***Наши контакты*** 
   <[https://www.markdownguide.org](https://brunkol.ru/contacts)https://brunkol.ru/contacts>
+ [Забронировать столик](https://brunkol.ru/contacts#popup:myform "забронировать столик")
