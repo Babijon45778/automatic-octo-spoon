@@ -21,9 +21,7 @@
 |Водка|50|150|
 |Пиво|200|100|
 |Текила|50|200|
- <!-- CSS Code -->
-<style type="text/css" scoped>
-table.GeneratedTable {
+
    width:100%;
    background-color:#FFFFFF;
    font-family:cursive;
