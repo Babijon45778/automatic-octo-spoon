@@ -25,16 +25,7 @@
 
 
 <!-- CSS Code -->
-<style type="text/css" scoped>
-table.GeneratedTable {
-   width:100%;
-   background-color:#FFFFFF;
-   font-family:cursive;
-   border-collapse:collapse;
-   border-width:3px;
-   border-color:#7e916b;
-   border-style:solid;
-   color:#303030;
+
 <table class="GeneratedTable">
 <thead>
 <tr>
